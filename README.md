@@ -1,6 +1,6 @@
 # OpenUBI Data
 
-Please note: If you do not having any experience with code or GitHub, **you will still be able to contribute** to the data, probably in less than 10 minutes. If you're having trouble feel free to contact one of us for help!
+**👋 Welcome to the OpenUBI data repository! If you do not having any experience with code or GitHub, you will still be able to contribute to the data, probably in less than 10 minutes! If you're having trouble, feel free to contact one of us for help.**
 
 ---
 
