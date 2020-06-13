@@ -8,6 +8,11 @@
   force = false
 
 [[headers]]
+  for = "/*"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
+
+[[headers]]
   for = "/*.yaml"
   [headers.values]
     Content-Type = "text/yaml"
