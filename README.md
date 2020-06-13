@@ -42,6 +42,8 @@ Scroll down to the bottom of the page, and in the field that says "Update candid
 
 Once you've filled that out, click the "Propose changes" button!
 
+> **Note for admins only:** You will see "Commit directly to the master branch" selected by default, and the button will say "commit changes", which means the changes will go live _instantly_. If you want others to approve your changes first, click "create a new branch for this commit and start a pull request" instead, then click the "propose changes" button.
+
 ### 6. Click on "create pull request"
 There's one more button you need to click, and then you're done! On the screen that comes up, there will be a form, and a "create pull request" button. You can simply click on that button straight away! Or you can leave a comment before clicking the button, if there's anything you want to mention or let us know about.
 
