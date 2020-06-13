@@ -1,0 +1,13 @@
+# This file is used to configure data.us.openubiproject.org.
+# It is not part of the data.
+
+[[redirects]]
+  from = "/*"
+  to = "https://github.com/OpenUBIProject/data"
+  status = 302
+  force = false
+
+[[headers]]
+  for = "/*.yaml"
+  [headers.values]
+    Content-Type = "text/yaml"
